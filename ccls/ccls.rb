@@ -3,6 +3,7 @@ class Ccls < Formula
   homepage "https://github.com/MaskRay/ccls"
   url "https://github.com/Yutzar/42-brew/raw/master/ccls/ccls"
   sha256 '1d66e0e098bea77d5f72cc5b8016e04da4fc550f497a7dbabdfb5073adec6f33'
+  version "cef02034841294f0ae1495684048677832878fa4"
 
   def install
     bin.install 'ccls'
